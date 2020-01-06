@@ -1,16 +1,16 @@
-# Write your code here :-)
 """Welcome to a THIS IS MY SPACESUIT. workshop!
 This is the file you will use to code with your device.
 There is pseudocode to give hints to the code.
 After completing an example, you must comment out previous examples by using # on each line with code."""
 
 
-"""EXAMPLE 1: This example prints "THIS IS MY SPACESUIT. to the serial. Use the two lines of code below"""
+"""EXAMPLE 1: CHECK CHECK. This example prints "THIS IS MY SPACESUIT. to the serial. Use the two lines of code below"""
 from adafruit_circuitplayground import cp
 print("THIS IS MY SPACESUIT.") #you can change the text to write whatever you want
 
 
-'''EXAMPLE 2: THE MIGHTY LED BLINK.'''
+'''EXAMPLE 2: THE MIGHTY LED BLINK.
+This example has a single LED blink.'''
 
 '''import statements - use 2 lines of code below'''
 #from adafruit_circuitplayground import cp
@@ -73,7 +73,8 @@ This example lights up the entire board based on your touch'''
 
 
 
-'''EXAMPLE 5: DJ IN THE HOUSE. '''
+'''EXAMPLE 5: DJ IN THE HOUSE.
+This example plays a tone and shows an LED when you press a button'''
 
 '''import statements - use 2 lines of code below'''
 #from adafruit_circuitplayground import cp
